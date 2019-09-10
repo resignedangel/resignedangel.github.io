@@ -28,7 +28,7 @@ twitter_username: resignedangel
 github_username:  resignedangel
 
 # Build settings
-theme: theme: jekyll-theme-time-machine
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
