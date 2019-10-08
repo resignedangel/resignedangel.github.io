@@ -28,7 +28,7 @@ twitter_username: resignedangel
 github_username:  resignedangel
 
 # Build settings
-remote-theme: /flexible-jekyll
+remote-theme: resignedangel/flexible-jekyll
 plugins:
   - jekyll-feed
 
